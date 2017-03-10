@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Localisation in Quantum Systems"
+title                    : "Workshop on Localisation in Quantum Systems"
 title_separator          : "-"
-name                     : "Localisation "
+name                     : ""
 description              : "Best"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -74,14 +74,14 @@ analytics:
   google:
     tracking_id          :
 
-
+#(https://www.google.co.uk/maps/place/King's+College+London/@51.5113599,-0.1171322,16z/data=!4m5!3m4!1s0x0:0xb0643efb7ed0928d!8m2!3d51.5114869!4d-0.1159975)"
 # Site Author
 author:
   name             : "Localisation"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Amazeballs"
-  location         : "KCL"
-  email            :
+  bio              : "Anderson models, DMFT and"
+  location         : "Strand Campus, <br /> King's College London"
+  email            : "canes.localisation@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
