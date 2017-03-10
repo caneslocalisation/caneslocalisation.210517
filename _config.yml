@@ -77,9 +77,9 @@ analytics:
 #(https://www.google.co.uk/maps/place/King's+College+London/@51.5113599,-0.1171322,16z/data=!4m5!3m4!1s0x0:0xb0643efb7ed0928d!8m2!3d51.5114869!4d-0.1159975)"
 # Site Author
 author:
-  name             : "Localisation"
+  name             : "WoLQS"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Anderson models, DMFT and"
+  bio              : "Anderson models, DMFT and localisation in many-body systems"
   location         : "Strand Campus, <br /> King's College London"
   email            : "canes.localisation@gmail.com"
   uri              :
