@@ -1,13 +1,19 @@
 ---
-layout: splash
+layout: single
 permalink: /about/
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-modified: 2017-02-14T14:28:13-05:00
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+Ever since Anderson’s groundbreaking work, localisation has been a concept of great importance in modern condensed matter theory as well as statistical physics. The initial intuition about the intimate relation between disorder and localisation of single-particle quantum states has, since Anderson’s paper, evolved and diversified.
+
+An example ofclassicallocalisation isthatofrandomwalksondisorderednetworks.One is usually interested in the evolution of the probability of the position of a random walker. Typical questions concern the distribution of probability over a network, the ergodicity of the system and the long time behaviour. A natural way to address these questions is by examining the degree of localisation of the probability over time.
+
+In the context of many-body quantum systems, the question naturally arises as to whether similar behaviour is possible in the presence of interactions. Recent groundbreaking work has provided mounting evidence that this is indeed the case, for example in disordered quantum systems.
+
+This phenomenon, dubbed Many-Body Localisation (MBL), is an active field of theoretical investigation, and is currently the subject of increasing experimental investigation. Part of the interest in MBL is due to the fact that it would provide a mechanism for many-body quantum systems to avoid thermalisation.
+
+Recent developments have enhanced our knowledge of the role that disorder plays in strongly correlated, extended systems. This has in turn opened up new frontiers for first principles materials design under realistic experimental conditions. In particular, by including the interplay between the localisation induced by the disorder (Anderson-like) and the localisation induced by strong correlations (Mott-like), the DFT+DMFT methodology is able capture the physics behind the Metal Insulator Transition (MIT), a phenomenon already observed in experimentally realistic disordered systems.
+
+This workshop brings together three leading experts on these different aspects of localisation to provide a pedagogical introduction to these fields as well as an insight into their current research.
 
 ---
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.

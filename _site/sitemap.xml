@@ -6,4 +6,13 @@
 <url>
 <loc>http://localhost:4000/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/location/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Registration/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Schedule/</loc>
+</url>
 </urlset>

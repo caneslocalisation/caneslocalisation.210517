@@ -3,10 +3,17 @@ main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "Home"
+        #epsrc, canes, overleaf - footer -  contact details
    - title: "About"
-     url: /about/
+     url: /about/  # a lot of text - canes
    - title: "Registration"
+     url: /registration/    # link to google doc?
    - title: "Schedule"
-  # - title: "Location"
-#     url: https://mmistakes.github.io/minimal-mistakes/about/
+     url: /schedule/ # copy table , nice looking
+   - title: "Location"
+     url: /location/ # images , map, accomodation
+
+#   - title: "Participants"
+#     url: /participants/
+
   #   url: /year-archive/
