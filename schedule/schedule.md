@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /Schedule/
+permalink: /schedule/
 title: "Schedule"
 author_profile: true
 ---
