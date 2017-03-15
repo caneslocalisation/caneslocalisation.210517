@@ -108,15 +108,6 @@ author:
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 
-sidebar:
-  - title: "Title"
-    image: "assets/images/overleaf.png"
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
-
-
 # Reading Files
 include:
   - .htaccess
