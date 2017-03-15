@@ -78,10 +78,11 @@ analytics:
 # Site Author
 author:
   name             : "WoLQS"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Anderson models, DMFT and localisation in many-body systems"
-  location         : "Strand Campus, <br /> King's College London"
+  location         : "[Strand Campus, <br /> King's College London](http://www.facebook.com)"
   email            : "canes.localisation@gmail.com"
+  avatar           :
+  image            : "assets/images/overleaf.png"
   uri              :
   bitbucket        :
   codepen          :
@@ -105,6 +106,15 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+
+
+sidebar:
+  - title: "Title"
+    image: "assets/images/overleaf.png"
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
 
 
 # Reading Files
