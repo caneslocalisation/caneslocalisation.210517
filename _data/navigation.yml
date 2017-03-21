@@ -6,12 +6,12 @@ main:
         #epsrc, canes, overleaf - footer -  contact details
    - title: "About"
      url: /about/  # a lot of text - canes
-   - title: "Registration"
-     url: /registration/    # link to google doc?
    - title: "Schedule"
      url: /schedule/ # copy table , nice looking
    - title: "Location"
      url: /location/ # images , map, accomodation
+   - title: "Registration"
+     url: /registration/    # link to google doc?
 
 #   - title: "Participants"
 #     url: /participants/

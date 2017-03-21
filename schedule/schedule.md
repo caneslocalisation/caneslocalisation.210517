@@ -10,7 +10,7 @@ Guy's/ Strand - Room
 
 | Thursday 1st June      |                       |   | Friday 2nd June    |                           |
 |---------------|--------------------------------|   |---------------|--------------------------------|
-| <b>  12.00 - 13:00 </b>  |<b>  Registration   </b>                |   | <b>  9.30 -  12.00 </b> | <b> Dr. Z. Papić  </b>           |
+| <i>  12.00 - 13:00 </i>  |<i>  Registration   </i>                |   | <i>  9.30 -  12.00 </i> | <i> Dr. Z. Papić  </i>           |
 | 13.00 - 15.30 | Prof. V. Kravtsov              |   | 12.00 - 13.00 | Lunch                          |
 | <b> 15.30 - 18.00 </b> |<b> Contributed talks </b>             |   | <b>  13.00 - 14.00 </b> | <b>  Poster session     </b>            |
 | 18.00 - 19.00 | Poster session                 |   | 14.00 - 16.15 | Prof. V. Dobrosavljević        |
