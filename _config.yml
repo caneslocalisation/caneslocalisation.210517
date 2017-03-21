@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Workshop on Localisation in Quantum Systems"
 title_separator          : "-"
 name                     : ""
-description              : "Best"
+description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "WoLQS"
-  bio              : "Anderson models, DMFT and localisation in many-body systems"
+  bio              : "A two day workshop on localisation in quantum systems."
   location         : "Strand Campus, <br /> King's College London"
   email            : "canes.localisation@gmail.com"
   avatar           :
