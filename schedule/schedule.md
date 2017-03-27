@@ -7,7 +7,7 @@ author_profile: true
 
 | Thursday 1st June      |                       |   | Friday 2nd June    |                           |
 |---------------|--------------------------------|   |---------------|--------------------------------|
-| <i>  12.00 - 13:00 </i>  |<i>  Registration   </i>                |   | <i>  9.30 -  12.00 </i> | <i> Dr. Z. Papić  </i>           |
+| <i>  12.00 - 13:00 </i>  |<i>  Registration   </i>                |   | <i>  9.30 -  12.00 </i> | <i> Dr Z. Papić  </i>           |
 | 13.00 - 15.30 | Prof. V. Kravtsov              |   | 12.00 - 13.00 | Lunch                          |
 | <i> 15.30 - 18.00 </i> |<i> Contributed talks </i>             |   | <i>  13.00 - 14.00 </i> | <i>  Poster session     </i>            |
 | 18.00 - 19.00 | Poster session                 |   | 14.00 - 16.15 | Prof. V. Dobrosavljević        |
