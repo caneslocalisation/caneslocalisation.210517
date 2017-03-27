@@ -5,12 +5,17 @@ title: "About"
 author_profile: true
 ---
 <h5> The workshop </h5>
-<sub> This workshop was developed by students with a diverse set of interests in state-of-the-art problems in quantum and statistical physics. The unifying concept between their research topics was localisation, and it's applications in modelling quantum systems. Please read our extended workshop rationale here. This workshop is organised with support from CANES, the EPSRC, Overleaf and King's College London.
+<sub> This workshop was developed by students with a diverse set of interests in state-of-the-art problems in quantum and statistical physics. The unifying concept between their research topics was localisation, and its applications in modelling quantum systems. Please read our extended workshop rationale here. This workshop is organised with support from CANES, the EPSRC, Overleaf and King's College London.
 </sub>
 <h5> Anderson localisation </h5>
 <sub> </sub>
-<h5> Dynamical Mean Field Theory </h5>
 <h5>  Many-Body localisation </h5>
+<sub> Can Anderson-like localisation still occur when a quantum system includes interactions (i.e. it’s genuinely many-body)? If this is the case, this ‘many body localisation’ (MBL) would provide the first known mechanism for many-body quantum systems not to attain (generalised) thermal equilibrium. Characterising the many-body localised phase and identifying the MBL phase transition have been the focus of a large body of research in recent years. </sub>
+
+<h5> Anderson localisation on graphs</h5>
+
+<h5> Dynamical Mean Field Theory </h5>
+
 <h5>  CANES </h5>
 <sub> [CANES](http://www.kcl.ac.uk/innovation/groups/noneqsys/About-Us/Overview.aspx) is the EPSRC doctoral training centre for Cross-Dispiclinary Approaches to Non-Equilibrium Systems, based at King's College London. It aims to provide training in, and to study, non-equilibrium phenomenon in a broad range of subjects. Doctoral training focusses on theoretical modelling, data analysis and simulation techniques, and is applied to diverse topics such as networks, finance, landscape change, protein folding, and non-equilibrium quantum dynamics. </sub>
 
