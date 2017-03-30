@@ -14,7 +14,7 @@ author_profile: true
 | <i> 19.30 - 21:30  </i> |<i>  Workshop dinner  </i>              |   | <i> 16.15 - 16:30 </i> | <i>  Concluding remarks  </i>           |
 
 <h3>Event locations </h3>
-<sub> The workshop takes place in the King's building of the Strand campus, King's College London. <br /> The three lectures are to be held in the Nash lecture theatre (K2.31). The contributed talks, poster session and refreshments will be in room K2.40. Each lecture is 2 hours, with a 15 minute coffee break in the middle. </sub>
+<sub> The workshop takes place in the King's building of the Strand campus, King's College London. <br /> The three lectures are to be held in the Nash lecture theatre (K2.31). The contributed talks, poster session and refreshments will be in room K2.40. </sub>
 
 ---
 
