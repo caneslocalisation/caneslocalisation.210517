@@ -19,6 +19,7 @@ author_profile: true
 ---
 
 <h3>Talks: </h3>
+<sub>Each lecture is 2 hours, with a 15 minute coffee break in the middle. </sub>
 <h4>Vladimir Kravtsov </h4>
 TBA
 
