@@ -22,7 +22,7 @@ author_profile: true
 <sub>Each lecture is 2 hours, with a 15 minute coffee break in the middle. </sub>
 
 <h4>Vladimir Kravtsov - Replica Symmetry Breaking and Non-Ergodic Extended phases on disordered Bethe lattices.</h4>
- <p style="line-height: 1;"> <sub>First hour - Anderson localization: from single-particle to many-body
+ <p style="line-height: 1;"> <sub>First hour - Anderson localization: from single-particle to many-body <br />
 Second hour - Replica Symmetry Breaking and Non-Ergodic Extended phases on disordered Bethe lattices<br /> <br />  Related papers - B. L. Altshuler, L. B. Ioffe, V. E. Kravtsov, arXiv:1610.00758 </sub> </p>
 
 
