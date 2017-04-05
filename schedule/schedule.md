@@ -21,8 +21,11 @@ author_profile: true
 <h3>Talks: </h3>
 <sub>Each lecture is 2 hours, with a 15 minute coffee break in the middle. </sub>
 
-<h4>Vladimir Kravtsov </h4>
-TBA
+<h4>Vladimir Kravtsov - Replica Symmetry Breaking and Non-Ergodic Extended phases on disordered Bethe lattices.</h4>
+ <p style="line-height: 1;"> <sub>First hour - Anderson localization: from single-particle to many-body
+Second hour - Replica Symmetry Breaking and Non-Ergodic Extended phases on disordered Bethe lattices<br /> <br />  Related papers - B. L. Altshuler, L. B. Ioffe, V. E. Kravtsov, arXiv:1610.00758 </sub> </p>
+
+
 
 <h4>Zlatko Papić - Signatures of quantum integrability in the entanglement spectrum</h4>
  <p style="line-height: 1;"> <sub> Quantum many-body systems are challenging to study because of their exponentially large Hilbert spaces, but at the same time they represent an arena for exciting new physics which results from interactions between particles. For theoretical purposes, it is convenient to know if such systems can be expressed in a "simple" ways in terms of some nearly-free quasiparticles, or more generally if one can construct a large set of operators that approximately commute with the system’s Hamiltonian. In this talk I will discuss two ways of approaching these questions using the "entanglement spectrum". In the first part, I will show that strongly disordered systems in the many-body localized phase have a universal power-law structure in their entanglement spectra. This is a consequence of their local integrability, and distinguishes such states from typical ground states of gapped systems. In the second part, I will introduce a notion of “interaction distance” and show that the entanglement spectrum can be used to quantify “how far” an interacting ground state is from a free (Gaussian) state. I will discuss some examples of quantum spin chains and outline a few future directions. <br /> <br />  [1] M. Serbyn, A. Michailidis, D. Abanin, Z. Papic, arXiv:1605.05737. <br />[2] C. J. Turner, K. Meichanetzidis, Z. Papic, and J. K. Pachos, arXiv:1607.02679. </sub> </p>
