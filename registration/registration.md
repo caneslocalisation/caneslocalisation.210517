@@ -4,7 +4,7 @@ permalink: /registration/
 title: "Registration"
 author_profile: true
 ---
-The deadline for registration was 10/05/2017. The deadline has now passed. 
+The deadline for registration was 10/05/2017. The deadline has now passed. <br /> <br />
 For any inquiries, please email canes.localisation@gmail.com .
 
 <!---(The registration form can be found <b>[here](https://goo.gl/forms/B7dwd7spuyAYjQff1))</b>.--->
