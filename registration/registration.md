@@ -7,7 +7,7 @@ author_profile: true
 The deadline for registration was 10/05/2017. The deadline has now passed. 
 For any inquiries, please email canes.localisation@gmail.com .
 
-[comment]: <> (The registration form can be found <b>[here](https://goo.gl/forms/B7dwd7spuyAYjQff1))</b>.
+<!---(The registration form can be found <b>[here](https://goo.gl/forms/B7dwd7spuyAYjQff1))</b>.--->
 
 
 
