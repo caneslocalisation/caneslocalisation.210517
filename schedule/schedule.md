@@ -5,13 +5,20 @@ title: "Schedule"
 author_profile: true
 ---
 
-| Thursday 1st June      |                       |   | Friday 2nd June    |                           |
-|---------------|--------------------------------|   |---------------|--------------------------------|
-| <i>  12.00 - 13:00 </i>  |<i>  Registration   </i>                |   | <i>  9.30 -  12.00 </i> | <i> Dr Z. Papić  </i>           |
-| 13.00 - 15.30 | Prof. V. Kravtsov              |   | 12.00 - 13.00 | Lunch                          |
-| <i> 15.30 - 18.00 </i> |<i> Contributed talks </i>             |   | <i>  13.00 - 14.00 </i> | <i>  Poster session     </i>            |
-| 18.00 - 19.00 | Poster session                 |   | 14.00 - 16.15 | Prof. V. Dobrosavljević        |
-| <i> 19.30 - 21:30  </i> |<i>  Workshop dinner  </i>              |   | <i> 16.15 - 16:30 </i> | <i>  Concluding remarks  </i>           |
+| Thursday 1st June |                        |   | Friday 2nd June |                          |
+|-------------------|------------------------|---|-----------------|--------------------------|
+| 12:00-13:00       | Registration           |   | 9:30 - 10:40    | Dr. Papic -1             |
+| 13:00-14:10       | Prof. Kravtsov - 1     |   | 10:40 - 11:00   | Coffee break             |
+| 14:10-14:30       | Coffee break           |   | 11:00-12:00     | Dr. Papic - 2            |
+| 14:30-15:30       | Prof. Kravtsov - 2     |   | 12:00 - 13:00   | Lunch                    |
+| 15:40-16:05       | CT - Dr. Pietracaprina |   | 13:00 - 14:00   | Poster session 2         |
+| 16:05-16:30       | CT - Dr. Thomson       |   | 14:00 - 15:10   | Prof. Dobrosavljević - 1 |
+| 16:30-16:45       | Coffee break           |   | 15:10 - 15:30   | Coffee break             |
+| 16:45-17:10       | CT - Dr. Smith         |   | 15:30 - 16:30   | Prof. Dobrosavljević - 2 |
+| 17:10-17:35       | CT - Dr. Barman        |   | 16:30 - 16:45   | Concluding remarks       |
+| 17:35-18:00       | CT - Dr. Barucca       |   |                 |                          |
+| 18:00-19:00       | Poster session 1       |   |                 |                          |
+| 19:30-21:30       | Workshop dinner        |   |                 |                          |
 
 <h3>Event locations </h3>
 <sub> The workshop takes place in the King's building of the Strand campus, King's College London. <br /> The three lectures will be held in the Nash lecture theatre (K2.31). The contributed talks, poster session and refreshments will be in room K2.40. A buffet lunch will be provided on the second day.</sub>
