@@ -38,14 +38,25 @@ Specialised talk - Replica Symmetry Breaking and Non-Ergodic Extended phases on 
 <h4>Vladimir Dobrosavljević </h4>
 TBA
 
+---
+
 <h3>Contributed talks: </h3>
+<h4>Dr. Francesca Pietracaprina - Entanglement critical length at the many-body localization transition</h4>
+ <p style="line-height: 1;"> <sub> We study the details of the distribution of the entanglement spectrum (eigenvalues of the reduced density matrix) of a disordered spin chain exhibiting a many-body localization (MBL) transition. In the thermalizing region we identify the evolution under increasing system size of the eigenvalues distribution function, whose thermodynamic limit is close (but possibly different from) the Marchenko-Pastur distribution. From the analysis we extract a correlation length $L_s(h)$ determining the minimum system size to enter the asymptotic region. We find that $L_s(h)$ diverges at the MBL transition. We discuss the nature of the subleading corrections to the entanglement spectrum distribution and to the entanglement entropy.</sub> </p>
+ 
+<h4>Dr. Steven Thomson</h4>
+ <p style="line-height: 1;"> <sub> Once thought to destroy localisation completely, we now know that adding interactions into disordered materials can lead to the formation of a many-body localised phase. This phase is characterised by an extensive number of local conserved quantities and a failure to thermalise. Consequently it cannot be described by conventional equilibrium quantum statistical mechanics, and exact numerical methods are restricted to small system sizes. Here, we present a perturbative flow equation approach: we employ a continuous unitary transform to diagonalise the prototypical XXZ spin chain Hamiltonian, show how local integrals of motion naturally emerge from this method, and go on calculate time evolution and localisation properties in the strongly-disordered regime.</sub> </p>
+ 
+ 
+<h4>Dr. Adam Smith - Disorder-free Localization</h4>
+ <p style="line-height: 1;"> <sub> 
+Localisation depends crucially on the presence of disorder -- both for the Anderson and the many-body flavours. This disorder can reside either in the parameters of the Hamiltonian or in the initial state. Here we present a model where localization arises in a simple, translationally-invariant quantum model of locally interacting spins and fermions. This system generates its own disorder dynamically giving rise to localization of the fermionic degrees of freedom and answering a decades old question: is quenched disorder a necessary condition for localization. Our model also provides a nice perspective on many-body localization and quantum disentangled liquids.</sub> </p>
+ 
+<h4>Dr. Himadri Barman - "Two Relaxation Rates" in the Hubbard-Falicov-Kimball Model</h4>
+ <p style="line-height: 1;"> <sub> 
+Observation of distinct relaxation rates involved in dc resistivity (non-Fermi liquid temperature dependence) and Hall angle measurement (Fermi liquid temperature dependence) for cuprates led to a paradigm shift in the traditional view of strongly correlated electrons in metals in dimension d>1.  While such anomalous behavior can be rationalized in d=1 Luttinger liquids by appealing to fractionalization of an electron into a neutral spinon and a spinless holon, the specific nature of electronic processes leading to emergence of such features in d>1 is an enigma. We examine the transport scenario in the Hubbard-Falicov-Kimball model through the dynamical mean-field theory (DMFT), considering the non-Fermi liquid nature of the Falicov-Kimball metallic phase. Our results find that the interplay of the Hubbard and disorder-like Falicov-Kimball interactions indeed gives rise to two different relaxation times in a 3-d lattice. We justify our numerical results with a bosonization based analytics on the famed X-ray edge problem and finally compare our results with experiments on 3-d vanadium sesquioxide materials. <br /> <br /> https://arxiv.org/abs/1611.07594</sub> </p>
 
-Dr. Pietracaprina
 
-Dr. Thomson  
-
-Dr. Smith
-
-Dr. Barman
-
-Dr. Barucca 
+<h4>Dr. Paolo Barucca - Localization in covariance matrices of coupled heterogeneous Ornstein-Uhlenbeck processes</h4>
+ <p style="line-height: 1;"> <sub> 
+We define a random-matrix ensemble given by the infinite-time covariance matrices of Ornstein-Uhlenbeck processes at different temperatures coupled by a Gaussian symmetric matrix. The spectral properties of this ensemble are shown to be in qualitative agreement with some stylized facts of financial markets. Through the presented model formulas are given for the analysis of heterogeneous time series. Furthermore evidence for a localization transition in eigenvectors related to small and large eigenvalues in cross-correlations analysis of this model is found, and a simple explanation of localization phenomena in financial time series is provided. Finally we identify both in our model and in real financial data an inverted-bell effect in correlation between localized components and their local temperature: high- and low-temperature components are the most localized ones. </sub> </p>
