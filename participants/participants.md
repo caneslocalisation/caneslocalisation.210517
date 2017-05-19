@@ -26,7 +26,7 @@ Contributing speakers
 ---
 Participants
 
-| Institution                  |                                                          |
+|                              | Institution                                              |
 |------------------------------|----------------------------------------------------------|
 | Morion Mirza Amraji          | King's College London                                    |
 | Joe Bhaseen                  | King's College London                                    |
