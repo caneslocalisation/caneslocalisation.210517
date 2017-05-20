@@ -5,7 +5,7 @@ title: "Schedule"
 author_profile: true
 ---
 
-<sub> This is the running order for the workshop. The three invited speakers are spread over the two days whilst the contributed talks (CT) take place on June 1st. Titles and abstracts for the invited and contributed talks can be found further down on this page. </sub>
+<sub> This is the running order for the workshop. The three invited speakers are spread over the two days whilst the contributed talks (CT) take place on June 1st. Titles and abstracts for the invited and contributed talks can be found further down on this page. Academic institutions for all participants can be found on the [participants page](https://caneslocalisation.github.io/participants/)</sub>
 
 |             | Thursday 1st June      |   |               | Friday 2nd June       |
 |-------------|------------------------|---|---------------|-----------------------|
