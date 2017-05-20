@@ -14,7 +14,8 @@ main:
      url: /schedule/ # copy table , nice looking
    - title: "Location"
      url: /location/ # images , map, accomodation
-
+   - title: "Participants"
+     url: /participants/ # images , map, accomodation
 
 #   - title: "Participants"
 #     url: /participants/
