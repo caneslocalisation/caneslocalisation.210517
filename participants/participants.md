@@ -59,7 +59,7 @@ Participants
 | Riccardo Giuseppee Margiotta | King's College London                                    |
 | Rooholamin Darvizeh          | King's College London                                    |
 | Dr. Vincent Sacksteder           | Royal Holloway University London                         |
-| Lalit Kumar Saini            | S V National Institute of Technology, Surat (India))     |
+| Dr. Lalit Kumar Saini            | S V National Institute of Technology, Surat (India))     |
 | Evan Sheridan                | King's College London                                    |
 | Guy Skinner                  | King's College London                                    |
 | Professor Peter Sollich                | King's College London                                    |
