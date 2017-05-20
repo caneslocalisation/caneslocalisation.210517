@@ -29,42 +29,41 @@ Participants
 |                              | Institution                                              |
 |------------------------------|----------------------------------------------------------|
 | Morion Mirza Amraji          | King's College London                                    |
-| Joe Bhaseen                  | King's College London                                    |
+| Dr. Joe Bhaseen                  | King's College London                                    |
 | Amos Chan                    | University of Oxford                                     |
 | Stefano De Nicola            | King's College London                                    |
 | Davide Facoetti              | King's College London                                    |
-| Edoardo Fertitta             | King's College London                                    |
-| Jarvist Moore Frost          | Imperial College London                                  |
-| Eran Ginossar                | University of Surrey                                     |
+| Dr. Edoardo Fertitta             | King's College London                                    |
+| Dr. Jarvist Moore Frost          | Imperial College London                                  |
+| Dr. Eran Ginossar                | University of Surrey                                     |
 | Aldo Glielmo                 | King's College London                                    |
 | Duncan Gowland               | King's College London                                    |
 | Johnnie Gray                 | University College London                                |
 | Henry Hesten                 | Imperial College (CQD CDT & QUOLS)                       |
-| Andrew Ho                    | Department Physics, Royal Holloway, University of London |
-| Villy Ioannou                | Overleaf                                                 |
+| Dr. Andrew Ho                    | Department Physics, Royal Holloway, University of London |
 | Francois Jamet               | King's College London                                    |
 | Xiuyun Jiang                 | UCL                                                      |
-| Chris Joyner                 | Queen Mary University of London                          |
-| Reimer Kuehn                 | King's College London                                    |
-| Nguyen Le                    | University of Surrey                                     |
-| Derek Lee                    | Imperial College London                                  |
+| Dr. Chris Joyner                 | Queen Mary University of London                          |
+| Professor Reimer Kuehn                 | King's College London                                    |
+| Dr. Nguyen Le                    | University of Surrey                                     |
+| Dr. Derek Lee                    | Imperial College London                                  |
 | Edward Linscott              | University of Cambridge                                  |
 | Carla Lupo                   | King's College London                                    |
 | Francesco Macheda            | King's College London                                    |
-| Angus MacKinnon              | Imperial College London                                  |
+| Professor Angus MacKinnon              | Imperial College London                                  |
 | Gerard McCaul                | King's College London                                    |
-| Alexander Mozeika            | King's College London                                    |
+| Dr. Alexander Mozeika            | King's College London                                    |
 | Jason Myers                  | King's College London                                    |
 | Aydin Ozcan                  | UCL                                                      |
-| Erik Piatti                  | Politecnico di Torino                                    |
+| Dr. Erik Piatti                  | Politecnico di Torino                                    |
 | Riccardo Giuseppee Margiotta | King's College London                                    |
 | Rooholamin Darvizeh          | King's College London                                    |
-| Vincent Sacksteder           | Royal Holloway University London                         |
+| Dr. Vincent Sacksteder           | Royal Holloway University London                         |
 | Lalit Kumar Saini            | S V National Institute of Technology, Surat (India))     |
 | Evan Sheridan                | King's College London                                    |
 | Guy Skinner                  | King's College London                                    |
-| Peter Sollich                | King's College London                                    |
-| Simone Sturniolo             | STFC                                                     |
+| Professor Peter Sollich                | King's College London                                    |
+| Dr. Simone Sturniolo             | STFC                                                     |
 | Nanxin Wei                   | Imperial College London                                  |
 | Ziljuan Xie                  | Imperial College London                                  |
 | Hui Yang                     | UCL                                                      |
