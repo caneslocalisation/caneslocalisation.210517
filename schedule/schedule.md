@@ -36,9 +36,9 @@ Specialised talk - Replica Symmetry Breaking and Non-Ergodic Extended phases on 
  <p style="line-height: 1.3;"> <sub> Quantum many-body systems are challenging to study because of their exponentially large Hilbert spaces, but at the same time they represent an arena for exciting new physics which results from interactions between particles. For theoretical purposes, it is convenient to know if such systems can be expressed in a "simple" ways in terms of some nearly-free quasiparticles, or more generally if one can construct a large set of operators that approximately commute with the system’s Hamiltonian. In this talk I will discuss two ways of approaching these questions using the "entanglement spectrum". In the first part, I will show that strongly disordered systems in the many-body localized phase have a universal power-law structure in their entanglement spectra. This is a consequence of their local integrability, and distinguishes such states from typical ground states of gapped systems. In the second part, I will introduce a notion of “interaction distance” and show that the entanglement spectrum can be used to quantify “how far” an interacting ground state is from a free (Gaussian) state. I will discuss some examples of quantum spin chains and outline a few future directions. <br /> <br />  [1] M. Serbyn, A. Michailidis, D. Abanin, Z. Papic, arXiv:1605.05737. <br />[2] C. J. Turner, K. Meichanetzidis, Z. Papic, and J. K. Pachos, arXiv:1607.02679. </sub> </p>
 
 <h4>Professor Vladimir Dobrosavljević </h4>
-Lecture 1: Effective Medium Approaches (EMA) for Disorder within DMFT  <br />
-Lecture 2: Beyond EMA - Friedel Oscillations and Electronic Griffiths Phases 
-Abstracts available [here](https://caneslocalisation.github.io/assets/images/V_Dobrosavljevic_abstracts.pdf)
+<sub> Lecture 1: Effective Medium Approaches (EMA) for Disorder within DMFT  <br />
+Lecture 2: Beyond EMA - Friedel Oscillations and Electronic Griffiths Phases <br />
+Abstracts available [here](https://caneslocalisation.github.io/assets/images/V_Dobrosavljevic_abstracts.pdf) </sub>
 
 ---
 
