@@ -8,9 +8,9 @@ Invited speakers
 
 |                                   | Institution              |
 |-----------------------------------|--------------------------|
-| Professor Vladimir Kravtsov       | Florida State University |
-| Dr. Zlatko Papić                  | ICTP Trieste             |
-| Professor Vladimir Dobrosavljević | Leeds University         |
+| Professor Vladimir Kravtsov       | ICTP Trieste             |
+| Dr. Zlatko Papić                  | Leeds University         |
+| Professor Vladimir Dobrosavljević | Florida State University |
 
 ---
 Contributing speakers
