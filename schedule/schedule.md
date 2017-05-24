@@ -38,7 +38,7 @@ Specialised talk - Replica Symmetry Breaking and Non-Ergodic Extended phases on 
 <h4>Professor Vladimir Dobrosavljević </h4>
 Lecture 1: Effective Medium Approaches (EMA) for Disorder within DMFT  <br />
 Lecture 2: Beyond EMA - Friedel Oscillations and Electronic Griffiths Phases 
-Abstracts available (here)[https://caneslocalisation.github.io/assets/images/V_Dobrosavljevic_abstracts.pdf]
+Abstracts available [here](https://caneslocalisation.github.io/assets/images/V_Dobrosavljevic_abstracts.pdf)
 
 ---
 
