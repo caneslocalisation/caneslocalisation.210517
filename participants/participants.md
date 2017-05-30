@@ -20,7 +20,7 @@ Contributing speakers
 | Dr. Francesca Pietracaprina | Sapienza Universita' di Roma                              |
 | Dr. Steven Thomson          | Institut de Physique Theorique, CEA Saclay                |
 | Adam Smith                  | Theory of Condensed Matter, University of Cambridge       |
-| Dr. Himadri Barman          | Institute of Mathematical Sciences (IMSc), Chennai, India |
+| Dr. Erik Piatti             | Politecnico di Torino                                     |
 | Dr. Paolo Barucca           | Universität Zürich /LIMS                                  |
 
 ---
@@ -55,7 +55,6 @@ Participants
 | Dr. Alexander Mozeika            | King's College London                                    |
 | Jason Myers                  | King's College London                                    |
 | Aydin Ozcan                  | UCL                                                      |
-| Dr. Erik Piatti                  | Politecnico di Torino                                    |
 | Riccardo Giuseppee Margiotta | King's College London                                    |
 | Rooholamin Darvizeh          | King's College London                                    |
 | Dr. Vincent Sacksteder           | Royal Holloway University London                         |
