@@ -17,7 +17,7 @@ author_profile: true
 | 16:05-16:30 | CT - S. Thomson       |   | 14:00 - 15:10 | V. Dobrosavljević  |
 | 16:30-16:45 | Coffee break           |   | 15:10 - 15:30 | Coffee break          |
 | 16:45-17:10 | CT - A. Smith         |   | 15:30 - 16:30 | V. Dobrosavljević  |
-| 17:10-17:35 | CT - H. Barman        |   | 16:30 - 16:45 | Concluding remarks    |
+| 17:10-17:35 | CT - E. Piatti        |   | 16:30 - 16:45 | Concluding remarks    |
 | 17:35-18:00 | CT - P. Barucca       |   |               |                       |
 | 18:00-19:00 | Poster session 1       |   |               |                       |
 | 19:30-21:30 | Workshop dinner        |   |               |                       |
@@ -54,9 +54,9 @@ Abstracts available [here](https://caneslocalisation.github.io/assets/images/V_D
  <p style="line-height: 1;"> <sub> 
 Localisation depends crucially on the presence of disorder -- both for the Anderson and the many-body flavours. This disorder can reside either in the parameters of the Hamiltonian or in the initial state. Here we present a model where localization arises in a simple, translationally-invariant quantum model of locally interacting spins and fermions. This system generates its own disorder dynamically giving rise to localization of the fermionic degrees of freedom and answering a decades old question: is quenched disorder a necessary condition for localization. Our model also provides a nice perspective on many-body localization and quantum disentangled liquids.</sub> </p>
  
-<h4>Dr. Himadri Barman - "Two Relaxation Rates" in the Hubbard-Falicov-Kimball Model</h4>
- <p style="line-height: 1;"> <sub> 
-Observation of distinct relaxation rates involved in dc resistivity (non-Fermi liquid temperature dependence) and Hall angle measurement (Fermi liquid temperature dependence) for cuprates led to a paradigm shift in the traditional view of strongly correlated electrons in metals in dimension d>1.  While such anomalous behavior can be rationalized in d=1 Luttinger liquids by appealing to fractionalization of an electron into a neutral spinon and a spinless holon, the specific nature of electronic processes leading to emergence of such features in d>1 is an enigma. We examine the transport scenario in the Hubbard-Falicov-Kimball model through the dynamical mean-field theory (DMFT), considering the non-Fermi liquid nature of the Falicov-Kimball metallic phase. Our results find that the interplay of the Hubbard and disorder-like Falicov-Kimball interactions indeed gives rise to two different relaxation times in a 3-d lattice. We justify our numerical results with a bosonization based analytics on the famed X-ray edge problem and finally compare our results with experiments on 3-d vanadium sesquioxide materials. <br /> <br /> https://arxiv.org/abs/1611.07594</sub> </p>
+<h4>Dr. Erik Piatti - Localization and scattering in ion-gated few-layer graphene: the competing roles of gate-induced disorder and ultra-high carrier density</h4>
+ <p style="line-height: 1;"> <sub> We employ ionic gating to control the electric transport properties of few-layer graphene field-effect devices up to surface carrier densities of the order of ~7x10^14 cm^-2 and down to temperatures ~3.5 K. We find that, unlike in single-layer graphene, in 3-, 4- and 5-layer graphene electric transport is dominated by electron-electron collisions below ~100 K. We also observe a logarithmic upturn of resistance below 20-30 K that we attribute to weak localization in the diffusive regime. By studying this effect as a function of carrier density and with ab-initio calculations we determine that, with the increase of gate voltage, the localization behavior is dominated by the competing effects due to the increase in both carrier density and charged scattering centers at the surface. We also tune our devices into a crossover regime between weak and strong localization, indicating that simultaneous tunability of both carrier and defect density at the surface of electric double layer gated materials is possible.
+</sub> </p>
 
 
 <h4>Dr. Paolo Barucca - Localization in covariance matrices of coupled heterogeneous Ornstein-Uhlenbeck processes</h4>
