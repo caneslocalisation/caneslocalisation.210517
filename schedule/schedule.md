@@ -29,15 +29,15 @@ author_profile: true
 
 <h3>Invited speakers: </h3>
 <h4>Professor Vladimir Kravtsov - Replica Symmetry Breaking and Non-Ergodic Extended phases on disordered Bethe lattices.</h4>
- <p style="line-height: 1.3;"> <sub>Pedagogical talk - Anderson localization: from single-particle to many-body <br />
-Specialised talk - Replica Symmetry Breaking and Non-Ergodic Extended phases on disordered Bethe lattices<br /> <br />  Related papers: <br />  B. L. Altshuler, L. B. Ioffe, V. E. Kravtsov, arXiv:1610.00758 </sub> </p>
+ <p style="line-height: 1.3;"> <sub>Introductory lecture - Multifractal distribution of the eigenfunction amplitudes: ergodic and non-ergodic extended states in single- and many-body localization <br /> <br /> 
+I  will discuss the properties of multifractal (large-deviation) distribution of eigenfunctions coefficients of single- and many body states and its relation with other statistics of eigenfunctions and eigenvalues. In particular, I will focus at the spectrum of fractal dimensions f(\alpha) and the moments of random eigenfunctions in systems with local tree structure, such as Bethe lattice, Random Regular Graphs, Populations Dynamics network and also Rosenzweig-Porter random matrix ensemble. I will also discuss different numerical methods to characterize a multifractal state and present the results for the random regular graph and population dynamics network. <br /> <br /> Specialist talk - One step replica symmetry breaking and the fractal dimensions of wave functions on networks with local tree structure <br /> <br />  I will show how one step replica symmetry breaking formalism is capable of computing the fractal dimension D_{1} of multifractal wave functions on the Bethe lattice.</sub> </p>
 
 <h4>Dr. Zlatko Papić - Signatures of quantum integrability in the entanglement spectrum</h4>
  <p style="line-height: 1.3;"> <sub> Quantum many-body systems are challenging to study because of their exponentially large Hilbert spaces, but at the same time they represent an arena for exciting new physics which results from interactions between particles. For theoretical purposes, it is convenient to know if such systems can be expressed in a "simple" ways in terms of some nearly-free quasiparticles, or more generally if one can construct a large set of operators that approximately commute with the system’s Hamiltonian. In this talk I will discuss two ways of approaching these questions using the "entanglement spectrum". In the first part, I will show that strongly disordered systems in the many-body localized phase have a universal power-law structure in their entanglement spectra. This is a consequence of their local integrability, and distinguishes such states from typical ground states of gapped systems. In the second part, I will introduce a notion of “interaction distance” and show that the entanglement spectrum can be used to quantify “how far” an interacting ground state is from a free (Gaussian) state. I will discuss some examples of quantum spin chains and outline a few future directions. <br /> <br />  [1] M. Serbyn, A. Michailidis, D. Abanin, Z. Papic, arXiv:1605.05737. <br />[2] C. J. Turner, K. Meichanetzidis, Z. Papic, and J. K. Pachos, arXiv:1607.02679. </sub> </p>
 
 <h4>Professor Vladimir Dobrosavljević </h4>
-<sub> Lecture 1: Effective Medium Approaches (EMA) for Disorder within DMFT  <br />
-Lecture 2: Beyond EMA - Friedel Oscillations and Electronic Griffiths Phases <br />
+<sub>Introductory Lecture : Effective Medium Approaches (EMA) for Disorder within DMFT  <br />
+Specialist Talk : Beyond EMA - Friedel Oscillations and Electronic Griffiths Phases <br />
 Abstracts available [here](https://caneslocalisation.github.io/assets/images/V_Dobrosavljevic_abstracts.pdf) </sub>
 
 ---
